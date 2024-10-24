@@ -1,0 +1,43 @@
+a{
+    color: rgb(68, 133, 185);
+    font-family: Georgia;
+}
+
+p{
+    font-size: 14pt;
+    color: rgb(39, 43, 48);
+} 
+
+body{
+    background-color: rgb(175, 202, 206);
+}
+
+.first img{
+    float: right;
+    border: 10px rgb(185, 214, 218);
+    margin-left:20px;
+}
+
+.japan img{
+    float: right;
+    border: 10px rgb(185, 214, 218);
+    margin-left:20px;
+}
+
+table, th, td {
+    border: 5px solid rgb(65, 160, 177);
+    border-collapse: collapse;
+}
+
+td{
+    padding-top: 5px;
+}
+
+.zb1 img{
+    width:210px;
+    height:300px;
+}
+
+.content{
+    margin-top:100px;
+}
